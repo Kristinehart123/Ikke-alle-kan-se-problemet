@@ -197,8 +197,8 @@ h3 {
 
 button:hover {
     color: white;
-    background: red;
-    border-color: red;
+    background: yellow;
+    border-color: yellow;
     transition: all 0.5s ease 0s;
 }
 
